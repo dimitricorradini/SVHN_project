@@ -1,2 +1,2 @@
 # SVHN_project
-Machine learning experiments on SVHN
+Machine learning experiments on SVHN dataset
